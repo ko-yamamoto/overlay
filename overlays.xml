@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>nishisasa-overlay</name>
+    <description>my overlay</description>
+    <homepage>https://github.com/nishikawasasaki/overlay</homepage>
+    <owner>
+      <email>kawaisosu.sosu@gmail.com</email>
+      <name>nishikawasasaki</name>
+    </owner>
+    <source type="git">git@github.com:nishikawasasaki/overlay.git</source>
+  </repo>
+</repositories>
