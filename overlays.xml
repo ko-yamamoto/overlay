@@ -9,6 +9,6 @@
       <email>kawaisosu.sosu@gmail.com</email>
       <name>nishikawasasaki</name>
     </owner>
-    <source type="git">git@github.com:nishikawasasaki/overlay.git</source>
+    <source type="git">https://github.com/nishikawasasaki/overlay.git</source>
   </repo>
 </repositories>
